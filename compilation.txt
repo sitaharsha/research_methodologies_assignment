@@ -1,2 +1,0 @@
-g++  -I$HOME/sw/include basicpailler.cpp -o basicpailler -L$HOME/sw/lib -lntl  -lm
-
