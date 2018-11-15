@@ -12,3 +12,7 @@ For compilation :
 g++ -I$HOME/sw/include <file_name.cpp> -o <object_file_name> -L$HOME/sw/lib -lntl -lm
 
 Example : g++ -I$HOME/sw/include basicpailler.cpp -o basicpailler -L$HOME/sw/lib -lntl -lm
+
+For more details about the package used, please visit the link given below
+
+https://www.shoup.net/ntl/doc/tour.html
